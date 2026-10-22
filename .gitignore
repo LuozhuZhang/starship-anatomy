@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+work/recording/
+work/geometry-inventory.json
+work/qa/*.png
+work/qa/*.log
+work/qa/*result.json
+work/qa/continuous-motion.json
+outputs/*.zip
+outputs/manifest.json
+work/*.log
+work/*.json
+work/*.html

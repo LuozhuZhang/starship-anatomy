@@ -1,0 +1,35 @@
+line ends: 0 of 466 ends on 178 lines float
+shot work/qa/final-dark-assembled.png · readout "Assembled"
+eval: {"x":570.42236328125,"y":272.1513977050781,"w":155.57476806640625,"h":176.47811889648438}
+shot work/qa/final-dark-nose-assembled-4x.png · readout ""
+eval: undefined
+eval: {"x":459.68304443359375,"y":427.4637451171875,"w":215.85003662109375,"h":361.9864501953125}
+shot work/qa/final-dark-barrel-assembled-4x.png · readout ""
+eval: undefined
+eval: {"x":538.4884033203125,"y":706.5733032226562,"w":99.44073486328125,"h":158.32861328125}
+shot work/qa/final-dark-aft-flap-assembled-4x.png · readout ""
+eval: undefined
+eval: undefined
+line ends: 0 of 466 ends on 178 lines float
+shot work/qa/final-dark-mid.png · readout "50% separated"
+line ends: 0 of 466 ends on 178 lines float
+shot work/qa/final-dark-apart.png · readout "Separating"
+eval: {"x":488.787841796875,"y":353.65179443359375,"w":177.6356201171875,"h":108.73858642578125}
+shot work/qa/final-dark-payload-apart-4x.png · readout ""
+eval: undefined
+eval: {"x":523.6901245117188,"y":440.35009765625,"w":120.7554931640625,"h":168.0926513671875}
+shot work/qa/final-dark-tank-junctions-4x.png · readout ""
+eval: undefined
+eval: {"x":368.2610168457031,"y":685.2650146484375,"w":189.69674682617188,"h":186.21844482421875}
+shot work/qa/final-dark-aft-apart-4x.png · readout ""
+eval: undefined
+eval: {"x":627.3453369140625,"y":370.4400329589844,"w":171.022216796875,"h":472.1160583496094}
+shot work/qa/final-dark-flaps-apart-4x.png · readout ""
+eval: undefined
+line ends: 0 of 466 ends on 178 lines float
+shot work/qa/final-dark-engine-detail.png · readout "Exploded · locked"
+eval: {"x":436.10052490234375,"y":429.8760070800781,"w":234.59112548828125,"h":289.9895324707031}
+shot work/qa/final-dark-engines-4x.png · readout ""
+eval: undefined
+eval: {"state":{"target":1,"progress":1,"held":1,"pinned":"sea","preview":null,"filter":"all","touring":false,"focused":true,"visible":true,"reduced":false,"shares":{"forwardL":1,"forwardR":1,"rearL":1,"rearR":1,"sea":1,"vac":1,"nose":1,"payloadSkin":1,"payload":1,"methane":1,"aftSkin":1,"aft":1,"oxygen":1}},"svgPaths":2434,"language":"en"}
+console: clean

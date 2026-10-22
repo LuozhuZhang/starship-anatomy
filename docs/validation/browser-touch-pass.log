@@ -1,0 +1,23 @@
+PASS 390px initial full assembly
+PASS no mobile horizontal overflow
+PASS slider follows the drawing on mobile
+shot phone-assembled
+shot phone-apart
+PASS touch module selection
+PASS touch detail view
+shot phone-payload-detail
+PASS real touch drag holds separation
+shot phone-drag
+PASS vertical touch gesture scrolls the page
+PASS vertical scroll does not commit a drag
+PASS touch filter
+PASS touch selection through filter
+PASS touch reassemble clears filter
+PASS animation sleeps offscreen
+PASS reduced motion settles immediately
+PASS reduced motion disables tour
+shot phone-reduced-apart
+PASS reduced motion reassembles immediately
+PASS landscape resize does not overflow
+PASS no external runtime resources
+console: clean

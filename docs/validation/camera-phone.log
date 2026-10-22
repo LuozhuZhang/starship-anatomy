@@ -1,0 +1,3 @@
+eval: "PASS 210 camera frames remain inside the viewport during rapid reversals"
+eval: {"target":0,"progress":0.00003710170247499395,"held":null,"pinned":null,"preview":null,"filter":"all","touring":false,"focused":false,"visible":true,"reduced":false,"shares":{"forwardL":5.635712798193432e-9,"forwardR":0,"rearL":0,"rearR":0,"sea":0,"vac":0,"nose":0,"payloadSkin":0,"payload":0,"methane":0,"aftSkin":0,"aft":0,"oxygen":0}}
+console: clean

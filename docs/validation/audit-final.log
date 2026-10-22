@@ -1,0 +1,19 @@
+geometry: 266 solids, 278 items, 6 routes
+painter order settled in 30.4s
+wrote outputs/starship.html (2764 KB)
+wrote outputs/starship-dark.html (2764 KB)
+clearance: 0 problems
+clearance apart: 0 problems
+terminals: 0 ends not on a mount
+loose ends: 0
+screen folds: 0
+support: 0 unsupported solids · 0 hanging tubes · 0 sunk pairs
+depth order: 0 problems
+through in mid-flight: 0 pairs
+self-overlap: 0 chunks whose outline crosses itself on screen
+wobble: 0 smoothed profiles whose slope turns between its ends
+saddles off their host apart: 0
+stand-in shapes: 0 items whose recorded shape covers too little of what it draws
+crowding: 0 pairs where a bend or end touches another line on screen
+audit · 6 tubes · 266 solids · 278 items · 1001 depth states · 819222 overlaps · 1674 order rules · 94.9 s
+audit passed

@@ -1,0 +1,228 @@
+{
+  "duration": 44,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "frames": 1320,
+  "errors": [],
+  "samples": [
+    {
+      "second": 0,
+      "state": {
+        "target": 0,
+        "progress": 0,
+        "held": null,
+        "pinned": null,
+        "preview": null,
+        "filter": "all",
+        "touring": false,
+        "focused": false,
+        "visible": true,
+        "reduced": false,
+        "shares": {
+          "forwardL": 0,
+          "forwardR": 0,
+          "rearL": 0,
+          "rearR": 0,
+          "sea": 0,
+          "vac": 0,
+          "nose": 0,
+          "payloadSkin": 0,
+          "payload": 0,
+          "methane": 0,
+          "aftSkin": 0,
+          "aft": 0,
+          "oxygen": 0
+        }
+      },
+      "pageHeight": 979.453125
+    },
+    {
+      "second": 9,
+      "state": {
+        "target": 1,
+        "progress": 0.9541066955348775,
+        "held": 1,
+        "pinned": null,
+        "preview": null,
+        "filter": "all",
+        "touring": false,
+        "focused": false,
+        "visible": true,
+        "reduced": false,
+        "shares": {
+          "forwardL": 1,
+          "forwardR": 1,
+          "rearL": 1,
+          "rearR": 1,
+          "sea": 1,
+          "vac": 1,
+          "nose": 1,
+          "payloadSkin": 1,
+          "payload": 1,
+          "methane": 0.9996023534225029,
+          "aftSkin": 0.9980710214169896,
+          "aft": 0.995420863298899,
+          "oxygen": 0.991684939132245
+        }
+      },
+      "pageHeight": 979.453125
+    },
+    {
+      "second": 16,
+      "state": {
+        "target": 1,
+        "progress": 1,
+        "held": 1,
+        "pinned": "payload",
+        "preview": null,
+        "filter": "all",
+        "touring": false,
+        "focused": true,
+        "visible": true,
+        "reduced": false,
+        "shares": {
+          "forwardL": 1,
+          "forwardR": 1,
+          "rearL": 1,
+          "rearR": 1,
+          "sea": 1,
+          "vac": 1,
+          "nose": 1,
+          "payloadSkin": 1,
+          "payload": 1,
+          "methane": 1,
+          "aftSkin": 1,
+          "aft": 1,
+          "oxygen": 1
+        }
+      },
+      "pageHeight": 1017.5
+    },
+    {
+      "second": 25,
+      "state": {
+        "target": 1,
+        "progress": 1,
+        "held": 1,
+        "pinned": "sea",
+        "preview": null,
+        "filter": "all",
+        "touring": false,
+        "focused": true,
+        "visible": true,
+        "reduced": false,
+        "shares": {
+          "forwardL": 1,
+          "forwardR": 1,
+          "rearL": 1,
+          "rearR": 1,
+          "sea": 1,
+          "vac": 1,
+          "nose": 1,
+          "payloadSkin": 1,
+          "payload": 1,
+          "methane": 1,
+          "aftSkin": 1,
+          "aft": 1,
+          "oxygen": 1
+        }
+      },
+      "pageHeight": 1044.453125
+    },
+    {
+      "second": 33,
+      "state": {
+        "target": 1,
+        "progress": 1,
+        "held": 1,
+        "pinned": "methane",
+        "preview": null,
+        "filter": "all",
+        "touring": false,
+        "focused": true,
+        "visible": true,
+        "reduced": false,
+        "shares": {
+          "forwardL": 1,
+          "forwardR": 1,
+          "rearL": 1,
+          "rearR": 1,
+          "sea": 1,
+          "vac": 1,
+          "nose": 1,
+          "payloadSkin": 1,
+          "payload": 1,
+          "methane": 1,
+          "aftSkin": 1,
+          "aft": 1,
+          "oxygen": 1
+        }
+      },
+      "pageHeight": 1032.734375
+    },
+    {
+      "second": 40,
+      "state": {
+        "target": 0,
+        "progress": 0.0037050589386048677,
+        "held": null,
+        "pinned": null,
+        "preview": null,
+        "filter": "all",
+        "touring": false,
+        "focused": false,
+        "visible": true,
+        "reduced": false,
+        "shares": {
+          "forwardL": 5.604139959736772e-05,
+          "forwardR": 0,
+          "rearL": 0,
+          "rearR": 0,
+          "sea": 0,
+          "vac": 0,
+          "nose": 0,
+          "payloadSkin": 0,
+          "payload": 0,
+          "methane": 0,
+          "aftSkin": 0,
+          "aft": 0,
+          "oxygen": 0
+        }
+      },
+      "pageHeight": 979.453125
+    },
+    {
+      "second": 43,
+      "state": {
+        "target": 0,
+        "progress": 0,
+        "held": null,
+        "pinned": null,
+        "preview": null,
+        "filter": "all",
+        "touring": false,
+        "focused": false,
+        "visible": true,
+        "reduced": false,
+        "shares": {
+          "forwardL": 0,
+          "forwardR": 0,
+          "rearL": 0,
+          "rearR": 0,
+          "sea": 0,
+          "vac": 0,
+          "nose": 0,
+          "payloadSkin": 0,
+          "payload": 0,
+          "methane": 0,
+          "aftSkin": 0,
+          "aft": 0,
+          "oxygen": 0
+        }
+      },
+      "pageHeight": 979.453125
+    }
+  ],
+  "sha256": "4760fe73df5d0d3c4e20d1e417019a441d9b16d7d89936d7626a65a480244bda"
+}

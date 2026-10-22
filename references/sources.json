@@ -1,0 +1,39 @@
+{
+  "configuration": "Starship upper stage; 2026 public design reference; V3 architecture",
+  "retrieved": "2026-10-22",
+  "official_update_date": "2026-05-12",
+  "sources": [
+    {
+      "url": "https://www.spacex.com/vehicles/starship/design",
+      "facts": {
+        "upper_stage_height_m": 52,
+        "diameter_m": 9,
+        "sea_level_engines": 3,
+        "vacuum_engines": 3
+      }
+    },
+    {
+      "url": "https://www.spacex.com/updates#starship-v3",
+      "official_data_url": "https://content.spacex.com/api/spacex-website/updates",
+      "update_id": "starship-v3",
+      "facts": [
+        "Raptor 3 architecture",
+        "Revised aft plumbing without individual engine shrouds",
+        "One aft-flap actuator with three motors",
+        "Updated reaction control and payload deployment mechanism"
+      ]
+    }
+  ],
+  "schematic": [
+    "Internal stations",
+    "Tank dome profiles",
+    "Skin and tile thickness",
+    "Tile count and pitch",
+    "Pipe routes",
+    "Mounts, frames and brackets",
+    "Port positions",
+    "Generic payload accommodation rack"
+  ],
+  "provided_visual_reference_sha256": "e3420cad6ce1e92ade04089b39985ec8404a1acd080eff1fc519d0f52d9dd9c1",
+  "generated_geometry": "Original SVG illustration; no tracing or embedded external images"
+}

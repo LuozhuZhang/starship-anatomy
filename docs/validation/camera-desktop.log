@@ -1,0 +1,5 @@
+eval: "PASS 210 camera frames remain inside the viewport during rapid reversals"
+sheet work/qa/motion-opening-final.png · 16 frames every 180 ms · readouts 0:"Separating" 1:"Separating" 2:"Separating" 3:"Separating" 4:"Separating" 5:"Separating" 6:"Separating" 7:"Separating" 8:"Separating" 9:"Separating" 10:"Exploded" 11:"Exploded" 12:"Exploded" 13:"Exploded" 14:"Exploded" 15:"Exploded"
+sheet work/qa/motion-closing-final.png · 16 frames every 180 ms · readouts 0:"Reassembling" 1:"Reassembling" 2:"Reassembling" 3:"Reassembling" 4:"Reassembling" 5:"Reassembling" 6:"Reassembling" 7:"Reassembling" 8:"Reassembling" 9:"Reassembling" 10:"Reassembling" 11:"Assembled" 12:"Assembled" 13:"Assembled" 14:"Assembled" 15:"Assembled"
+eval: {"target":0,"progress":0,"held":0,"pinned":null,"preview":null,"filter":"all","touring":false,"focused":false,"visible":true,"reduced":false,"shares":{"forwardL":0,"forwardR":0,"rearL":0,"rearR":0,"sea":0,"vac":0,"nose":0,"payloadSkin":0,"payload":0,"methane":0,"aftSkin":0,"aft":0,"oxygen":0}}
+console: clean

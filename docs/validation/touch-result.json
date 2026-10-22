@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "checks": [
+    "390px initial full assembly",
+    "no mobile horizontal overflow",
+    "slider follows the drawing on mobile",
+    "touch module selection",
+    "touch detail view",
+    "real touch drag holds separation",
+    "vertical touch gesture scrolls the page",
+    "vertical scroll does not commit a drag",
+    "touch filter",
+    "touch selection through filter",
+    "touch reassemble clears filter",
+    "animation sleeps offscreen",
+    "reduced motion settles immediately",
+    "reduced motion disables tour",
+    "reduced motion reassembles immediately",
+    "landscape resize does not overflow",
+    "no external runtime resources"
+  ],
+  "errors": [],
+  "device": "Chromium touch emulation, 390x780; landscape 844x390",
+  "physicalDevice": false
+}
