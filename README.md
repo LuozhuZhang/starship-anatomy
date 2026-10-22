@@ -10,7 +10,9 @@ Explore ten major assemblies: hover to separate the vehicle, drag to control the
 
 ## Try it
 
-Clone or download this repository and open **`outputs/starship.html`** in your browser. Everything is embedded in the file; no installation, server or internet connection is required.
+**[Explore Starship online](https://luozhuzhang.github.io/starship-anatomy/)** — open the interactive atlas directly in your browser. GitHub Pages rebuilds and publishes it automatically after each push to `main`.
+
+To use it offline, clone or download this repository and open **`outputs/starship.html`** in your browser. Everything is embedded in the file; no installation, server or internet connection is required.
 
 - **Hover** to preview the exploded structure; move away to reassemble.
 - **Drag or use the slider** to hold any separation progress.
